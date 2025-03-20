@@ -26,3 +26,4 @@
 | [株式会社ヤプリ](https://yappli.co.jp/) | [@k0n_karin](https://github.com/konkarin) | 2025-03-18 | 株式会社ヤプリは、ノーコードでアプリの制作・運用・分析を可能にするプラットフォーム「Yappli」を提供しています。「Yappli」はVue.jsとNuxtで開発されています。新規事業では一部ReactとNext.jsも使っています。エンジニア募集中です！！|
 | [フューチャー株式会社](https://www.future.co.jp/) | @ota-meshi | 2025-03-18 | フューチャーでは、各分野に精通するエンジニアが多数在籍しコミッタ―としても活躍しています。エンジニアが実装のみならず業務改革などのコンサルティングも行い、様々な業界のお客様の「経営と IT」を支援しています。現在も社会にインパクトのあるプロジェクトを数多く手掛けており、エンジニアを募集中です！！Vue.js は多くのプロジェクトで活用しており、今後もコミュニティへの貢献を通じて社会の発展に寄与します。|
 | [NOWIST株式会社](https://nowist.co.jp/) | [@uiuifree](https://github.com/uiuifree) | 2025-03-19 | [介護求人セレクト](https://www.kaigojobselect.com/)などの求人アグリゲーションサイトをNuxt&Rustを採用しで開発しています！！ |
+| [BASE株式会社](https://binc.jp) | [@You-saku](https://github.com/You-saku) | 2025-03-20 | [BASE](https://thebase.com)というネットショップ作成サービスを中心に様々なサービスを提供しています。BASEプロダクトではフロントエンド実装の多くがVue.jsで行われています。 |
