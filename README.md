@@ -28,3 +28,4 @@
 | [NOWIST株式会社](https://nowist.co.jp/) | [@uiuifree](https://github.com/uiuifree) | 2025-03-19 | [介護求人セレクト](https://www.kaigojobselect.com/)などの求人アグリゲーションサイトをNuxt&Rustを採用しで開発しています！！ |
 | [BASE株式会社](https://binc.jp) | [@You-saku](https://github.com/You-saku) | 2025-03-20 | [BASE](https://thebase.com)というネットショップ作成サービスを中心に様々なサービスを提供しています。BASEプロダクトではフロントエンド実装の多くがVue.jsで行われています。 |
 | [株式会社ワンキャリア](https://onecareer.co.jp/) | [@haskhu25](https://github.com/hakshu25) | 2025-03-25 | 株式会社ワンキャリアは、これまで可視化されていなかった「キャリアデータ」を活用し、就職・採用の意思決定をサポートするサービスを展開しています。就活サイト「ONE CAREER」や人事向け採用クラウド「ONE CAREER CLOUD」といった複数サービスでVue.js/Nuxtを用いて開発しています。ぜひ私たちと共に新しいキャリアの可能性を追求しませんか。エンジニア募集中です！ |
+| [ユニークビジョン株式会社](https://www.uniquevision.co.jp/) | [@lapinChiro](https://github.com/lapinChiro) | 2025-04-03 | ユニークビジョン株式会社はソーシャルメディアを活用して、企業の幅広いマーケティング施策で、ブランド体験をつくるテクノロジーカンパニーです。ほぼすべてのプロダクトのフロントエンドでVue.jsを採用しています。 |
